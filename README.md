@@ -1,2 +1,3 @@
-# RECS-Demo
-This is my first Git Repository 
+# Code-Demo
+This is my first Git Repository
+Author - Akanksha Kushwaha
